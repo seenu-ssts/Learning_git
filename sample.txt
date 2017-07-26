@@ -1,4 +1,8 @@
 welcome message
+<<<<<<< Updated upstream
 
 goodbye message
+=======
+hello
+>>>>>>> Stashed changes
 Byeeeeeeeee
